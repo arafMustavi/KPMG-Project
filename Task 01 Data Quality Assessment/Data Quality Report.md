@@ -1,4 +1,6 @@
-# Customer Demography:
+# Report
+
+## Customer Demography:
 
 **Customer ID**     : 1-4000  | No Duplicate and total 4000 entry
 
@@ -19,7 +21,7 @@
 **Tenure**          : 88 Entries are empty
 
 
-# Transactions
+## Transactions
 
 **Transaction ID**  : 20000 Entries all unique
 
@@ -36,3 +38,19 @@
 **First Sold Date** : Showing Numbers | Transform to date doesn't help
 
 
+## New Customer List
+Last Name : 29 rows are Blank
+
+past 3 year bike related purchase : Data Stored as Text instead of number | Data does not make sense
+
+Date of Birth Missing for 17 rows
+
+Job Title : 105 Columns are Empty
+
+Diseased Indicator : Useless Column Can be omitted
+
+PostCode : Data is not homogenous | Text and Numbr mixed
+
+## Customer Address: 
+
+Customer ID : 4001,4002 and 4003 is 3 Extra Identitiy
